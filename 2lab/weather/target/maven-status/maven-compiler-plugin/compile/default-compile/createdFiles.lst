@@ -1,0 +1,9 @@
+weather\JsonStuff\WeatherJsonData.class
+weather\DAO\Course.class
+weather\JsonStuff\WeatherJsonTnTimePair.class
+weather\WeatherMain.class
+weather\JsonStuff\WeatherJsonStruct.class
+weather\WeatherController.class
+weather\DAO\WeatherCrudRepository.class
+weather\DAO\WeatherTable.class
+weather\JsonStuff\WeatherJsonCurrently.class
